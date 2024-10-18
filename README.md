@@ -7,10 +7,3 @@
 📫 **Reach Me At:** [chaturvedikrishna319@gmail.com](mailto:chaturvedikrishna319@gmail.com)  
 🌟 **Pronouns:** He/Him  
 ⚡ **Fun Fact:** I once navigated a city using only the stars for guidance!
-
-
-
-
-DevloperSh4sh4nk/DevloperSh4sh4nk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
