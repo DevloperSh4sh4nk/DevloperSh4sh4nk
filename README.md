@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Shashank Chaturvedi] 👋
 
 I'm an AI/ML developer passionate about building intelligent solutions!
 
@@ -14,10 +14,10 @@ I'm an AI/ML developer passionate about building intelligent solutions!
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Cloud-blue.svg)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Developersh4shank &show_icons=true)
 
 ## 🎯 Open Source Contributions
-![Contribution Snake](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)### Hi there, I'm Shashank 👋
+![Contribution Snake](https://github.com/Developersh4shank/blob/output/github-contribution-grid-snake.svg)### Hi there, I'm Shashank 👋
 
 👨‍💻 **Developer & Learner**  
 💡 **Interests:** Data Science, Open Source, AI/ML  
