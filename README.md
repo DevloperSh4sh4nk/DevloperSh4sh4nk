@@ -1,7 +1,9 @@
 <h1 align="center">Hello there! 👋 I'm [shashank sheakher chaturvedi]</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Python+Developer+%7C+Data+Analyst;Machine+Learning+Enthusiast+%7C+Data+Scientist;Exploring+Data+to+Drive+Decisions+%F0%9F%94%8E;Transforming+Data+into+Insights+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Python+Developer+%7C+Data+Analyst;  
+    Machine+Learning+Enthusiast+%7C+Data+Scientist;
+     Exploring+Data+to+Drive+Decisions+%F0%9F%94%8E;Transforming+Data+into+Insights+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
