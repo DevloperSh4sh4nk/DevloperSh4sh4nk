@@ -39,9 +39,6 @@
 - [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Devlopersh4sh4nk)
 - [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)
 
----
-
-⭐️ _“Exploring data, solving problems, and building the future one line of code at a time.”_
 </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -53,4 +50,5 @@
 
 <br/>
 <hr/>
+⭐️ _“Exploring data, solving problems, and building the future one line of code at a time.”_
 
